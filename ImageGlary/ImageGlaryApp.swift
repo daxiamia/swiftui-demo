@@ -11,7 +11,9 @@ import SwiftUI
 struct ImageGlaryApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            // 照片流
+//            ContentView()
+            NamespaceDemoView()
         }
     }
 }

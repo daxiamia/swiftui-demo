@@ -14,6 +14,7 @@
 		5BD0CDBB2BB5579300F8B65D /* ImageGlaryTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5BD0CDBA2BB5579300F8B65D /* ImageGlaryTests.swift */; };
 		5BD0CDC52BB5579300F8B65D /* ImageGlaryUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5BD0CDC42BB5579300F8B65D /* ImageGlaryUITests.swift */; };
 		5BD0CDC72BB5579300F8B65D /* ImageGlaryUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5BD0CDC62BB5579300F8B65D /* ImageGlaryUITestsLaunchTests.swift */; };
+		5BD0CDD42BB569C400F8B65D /* NamespaceDemoView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5BD0CDD32BB569C400F8B65D /* NamespaceDemoView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -44,6 +45,7 @@
 		5BD0CDC02BB5579300F8B65D /* ImageGlaryUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = ImageGlaryUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		5BD0CDC42BB5579300F8B65D /* ImageGlaryUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImageGlaryUITests.swift; sourceTree = "<group>"; };
 		5BD0CDC62BB5579300F8B65D /* ImageGlaryUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImageGlaryUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		5BD0CDD32BB569C400F8B65D /* NamespaceDemoView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NamespaceDemoView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -94,6 +96,7 @@
 		5BD0CDA82BB5579200F8B65D /* ImageGlary */ = {
 			isa = PBXGroup;
 			children = (
+				5BD0CDD32BB569C400F8B65D /* NamespaceDemoView.swift */,
 				5BD0CDA92BB5579200F8B65D /* ImageGlaryApp.swift */,
 				5BD0CDAB2BB5579200F8B65D /* ContentView.swift */,
 				5BD0CDAD2BB5579300F8B65D /* Assets.xcassets */,
@@ -259,6 +262,7 @@
 			files = (
 				5BD0CDAC2BB5579200F8B65D /* ContentView.swift in Sources */,
 				5BD0CDAA2BB5579200F8B65D /* ImageGlaryApp.swift in Sources */,
+				5BD0CDD42BB569C400F8B65D /* NamespaceDemoView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
