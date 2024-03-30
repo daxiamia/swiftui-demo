@@ -15,6 +15,7 @@
 		5BD0CDC52BB5579300F8B65D /* ImageGlaryUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5BD0CDC42BB5579300F8B65D /* ImageGlaryUITests.swift */; };
 		5BD0CDC72BB5579300F8B65D /* ImageGlaryUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5BD0CDC62BB5579300F8B65D /* ImageGlaryUITestsLaunchTests.swift */; };
 		5BD0CDD42BB569C400F8B65D /* NamespaceDemoView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5BD0CDD32BB569C400F8B65D /* NamespaceDemoView.swift */; };
+		5BD0CDD72BB5C04C00F8B65D /* Clock.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5BD0CDD62BB5C04C00F8B65D /* Clock.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -46,6 +47,7 @@
 		5BD0CDC42BB5579300F8B65D /* ImageGlaryUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImageGlaryUITests.swift; sourceTree = "<group>"; };
 		5BD0CDC62BB5579300F8B65D /* ImageGlaryUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImageGlaryUITestsLaunchTests.swift; sourceTree = "<group>"; };
 		5BD0CDD32BB569C400F8B65D /* NamespaceDemoView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NamespaceDemoView.swift; sourceTree = "<group>"; };
+		5BD0CDD62BB5C04C00F8B65D /* Clock.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Clock.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -101,6 +103,7 @@
 				5BD0CDAB2BB5579200F8B65D /* ContentView.swift */,
 				5BD0CDAD2BB5579300F8B65D /* Assets.xcassets */,
 				5BD0CDAF2BB5579300F8B65D /* Preview Content */,
+				5BD0CDD62BB5C04C00F8B65D /* Clock.swift */,
 			);
 			path = ImageGlary;
 			sourceTree = "<group>";
@@ -262,6 +265,7 @@
 			files = (
 				5BD0CDAC2BB5579200F8B65D /* ContentView.swift in Sources */,
 				5BD0CDAA2BB5579200F8B65D /* ImageGlaryApp.swift in Sources */,
+				5BD0CDD72BB5C04C00F8B65D /* Clock.swift in Sources */,
 				5BD0CDD42BB569C400F8B65D /* NamespaceDemoView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
